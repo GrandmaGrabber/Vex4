@@ -1,8 +1,16 @@
 {
   "yes": "Sim",
   "no": "Não",
-  "retry": "TENTAR NOVAMENTE",
+  "retry":"TENTAR NOVAMENTE",
   "youOk": "ESTÁS BEM?",
+  "deaths": "Mortes",
+  "totalDeaths": "Total de mortes",
+  "perfect": "PERFEITO",
+  "gold": "OURO",
+  "silver": "PRATA",
+  "bronze": "BRONZE",
+  "cleared":"LIMPO",
+  
   "language": "Linguagem",
   "ui_mm_start": "Jogar",
   "ui_trophie_title": "Troféus",
@@ -220,5 +228,5 @@
   "tf42":"Ora, o [33] teste final [33]. Se o fio te bater até o fim, terás que [33]refazer todo o acto[33]!",
   "tf43":"Caminho errado, parvo!",
   "tf44":"Bom trabalho! Agora vá encontrar o [34]próximo acto[34]",
-  "tf45": "Obtém a medalha de ouro no acto 1 para desbloquear o modo difícil"
+  "tf45":"Apanha [35]3 estrelas[35] no [35]Acto 1[35] para desbloquear o [35]modo difícil[35]"
 }

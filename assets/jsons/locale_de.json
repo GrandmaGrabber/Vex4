@@ -1,8 +1,16 @@
 {
   "yes": "Ja",
   "no": "Nein",
-  "retry":"NOCHMAL VERSUCHEN",
+  "retry":"WIEDERHOLEN",
   "youOk": "ALLES GUT?",
+  "deaths": "Tode",
+  "totalDeaths": "Gesamt-Tode",
+  "perfect": "PERFEKT",
+  "gold": "GOLD",
+  "silver": "SILBER",
+  "bronze": "BRONZE",
+  "cleared":"GELÖSCHT",
+  
   "language": "Sprache",
   "ui_mm_start": "Spiel spielen",
   "ui_trophie_title": "Trophäen",
@@ -220,5 +228,5 @@
   "tf42":"Das ist er, die [33]letzte Prüfung[33]. Wenn der Draht dich am Ende schlägt, musst du den [33]gesamten Akt wiederholen[33]!",
   "tf43":"Falsche Richtung, Blödie!",
   "tf44":"Gute Arbeit! Suche jetzt den [34]nächsten Akt[34]",
-  "tf45":"Erhalte die Goldmedaille in Akt 1 , um den schweren Modus freizuschalten."
+  "tf45":"Erreiche [35]3 Sterne[35] in [35]Akt 1[35], um den [35]schweren Modus[35] freizuschalten."
 }

@@ -1,8 +1,16 @@
 {
   "yes": "Ja",
   "no": "Nee",
-  "retry":"PROBEER OPNIEUW",
+  "retry":"OPNIEUW PROBEREN",
   "youOk": "GAAT HET?",
+  "deaths": "Doden",
+  "totalDeaths": "Totaal aantal doden",
+  "perfect": "PERFECT",
+  "gold": "GOUD",
+  "silver": "ZILVER",
+  "bronze": "BRONS",
+  "cleared":"VERWIJDERD",
+  
   "language": "Taal",
   "ui_mm_start": "Spel spelen",
   "ui_trophie_title": "Trofeeën",
@@ -220,5 +228,5 @@
   "tf42":"Dit is het, de [33]laatste test[33]. Als de draad je uiteindelijk verslaat, moet je [33]de hele act overdoen[33]!",
   "tf43":"Verkeerde weg, sufferd!",
   "tf44":"Goed gedaan! Ga nu de [34]volgende act[34] zoeken",
-  "tf45": "Haal de Gouden medaille in Act 1 op om de Moeilijke modus te ontgrendelen"
+  "tf45":"Verkrijg [35]3 sterren[35] in [35]Act 1[35] om [35]Lastige modus[35] te ontgrendelen"
 }

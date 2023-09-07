@@ -1,8 +1,16 @@
 {
   "yes": "Oui",
   "no": "Non",
-  "retry": "RECOMMENCER",
+  "retry":"RÉESSAYER",
   "youOk": "EST-CE QUE TOUT VA BIEN?",
+  "deaths": "Morts",
+  "totalDeaths": "Total des morts",
+  "perfect": "PARFAIT",
+  "gold": "OR",
+  "silver": "ARGENT",
+  "bronze": "BRONZE",
+  "cleared":"TERMINÉ",
+  
   "language": "Langue",
   "ui_mm_start": "Jouer au jeu",
   "ui_trophie_title": "Trophées",
@@ -220,5 +228,5 @@
   "tf42":"Nous y sommes, c'est le [33]test final[33]. Si le fil vous bat à la fin, vous devrez [33]recommencer l'intégralité de l'acte[33] !",
   "tf43":"Pas le bon chemin, idiot !",
   "tf44":"Joli travail ! Maintenant, allez chercher le [34]prochain acte[34]",
-  "tf45": "Obtenez la médaille d'or dans l'acte 1 pour débloquer le mode difficile"
+  "tf45":"Obtenez [35]3 étoiles[35] dans l'[35]Acte 1[35] pour débloquer le [35]mode Hardcore[35]"
 }

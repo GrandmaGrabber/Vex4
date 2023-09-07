@@ -1,8 +1,16 @@
 {
-  "no": "Hayır",
+  "no": "HayIr",
   "yes": "Evet",
-  "retry": "Yeniden dene",
+  "retry":"YENİDEN DENE",
   "youOk": "İyi misin?",
+  "deaths": "Ölümler",
+  "totalDeaths": "Toplam ölüm",
+  "perfect": "MÜTHİŞ",
+  "gold": "ALTIN",
+  "silver": "GÜMÜŞ",
+  "bronze": "BRONZ",
+  "cleared":"TEMİZLENDİ",
+  
   "language": "Dil",
   "ui_mm_start": "Oyun Oyna",
   "ui_trophie_title": "Kupalar",
@@ -220,5 +228,5 @@
   "tf42":"İşte bu, [33]son test[33]. Sonunda yenilirsen [33]tüm görevi baştan yapmalısın[33]!",
   "tf43":"Yanlış yoldasın!",
   "tf44":"Bravo! Şimdi [34]bir sonraki görevi[34] bul",
-  "tf45": "Zor modun kilidini açmak için Görev 1'de Altın madalya al"
+  "tf45":"[35]Zor modu[35] etkinleştirmek için [35]Görev 1[35]'de [35]3 yıldız kazan[35]"
 }

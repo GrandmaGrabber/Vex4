@@ -1,8 +1,16 @@
 {
   "no": "Tidak",
   "yes": "Ya",
-  "retry": "Mencoba kembali",
   "youOk": "Apa kau baik-baik saja?",
+  "retry":"COBA LAGI",
+  "deaths": "Kematian",
+  "totalDeaths": "Total kematian",
+  "perfect": "SEMPURNA",
+  "gold": "EMAS",
+  "silver": "PERAK",
+  "bronze": "PERUNGGU",
+  "cleared":"DIHAPUS",
+  
   "language": "Bahasa",
   "ui_mm_start": "Mainkan Game",
   "ui_trophie_title": "Trofi",
@@ -220,5 +228,5 @@
   "tf42":"Ini dia, [33]tes final[33]. Jika kawatnya mengalahkanmu hingga akhir kamu harus [33]melakukan ulang seluruh aksi[33]!",
   "tf43":"Salah jalan, konyol!",
   "tf44":"Bagus sekali! Sekarang temukan [34]aksi selanjutnya[34]",
-  "tf45": "Dapatkan medali Emas dalam Aksi 1 untuk membuka mode Sulit"
+  "tf45":"Dapatkan [35]3 bintang[35] dalam [35]Aksi 1[35] untuk membuka [35]mode Sulit[35]" 
 }

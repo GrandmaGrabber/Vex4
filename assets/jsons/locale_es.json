@@ -1,8 +1,16 @@
 {
   "yes": "Sí",
   "no": "NO",
-  "retry":"REINTENTAR",
   "youOk": "ESTÁS BIEN?",
+  "retry":"REINTENTAR",
+  "deaths": "Muertes",
+  "totalDeaths": "Muertes totales",
+  "perfect": "PERFECTO",
+  "gold": "ORO",
+  "silver": "PLATA",
+  "bronze": "BRONCE",
+  "cleared":"BORRADO",
+  
   "language": "Idioma",
   "ui_mm_start": "Jugar",
   "ui_trophie_title": "Trofeos",
@@ -220,5 +228,5 @@
   "tf42":"Aquí esta, la [33]prueba final[33]. Si el cable te golpea hasta el final, ¡tendrás que [33]volver a repetir todo el acto[33].",
   "tf43":"¡Camino equivocado, tonto!",
   "tf44":"¡Buen trabajo! Ahora ve a buscar el [34]siguiente acto[34]",
-  "tf45": "Consigue la medalla de oro en el Acto 1 para desbloquear el modo difícil"
+  "tf45":"Obtén [35]3 estrellas[35] en el [35]Acto 1[35] para desbloquear el [35]modo difícil[35]"
 }

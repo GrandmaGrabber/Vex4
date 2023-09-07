@@ -3,6 +3,14 @@
   "yes": "Yes",
   "retry": "Retry",
   "youOk": "Are you ok?",
+  "deaths": "Deaths",
+  "totalDeaths": "Total deaths",
+  "perfect": "PERFECT",
+  "gold": "GOLD",
+  "silver": "SILVER",
+  "bronze": "BRONZE",
+  "cleared": "CLEARED",
+  
   "language": "Language",
   "ui_mm_start": "Play Game",
   "ui_trophie_title": "Trophies",
@@ -176,7 +184,7 @@
   "death15_1": "Surprised spiked!",
   "death15_2": "Penetrated!",
   
- "tf1":"Welcome back to [0]VEX[0]",
+  "tf1":"Welcome back to [0]VEX[0]",
   "tf2":"Press [1]down[1] to enter [1]Act1[1]",
   "tf3":"With the [0]kite[0] you can fly!",
   "tf4":"Use the torch to blow up TNT!",
@@ -220,5 +228,5 @@
   "tf42":"This is it, the [33]final test[33]. If the wire beats you to the end, you'll have to [33]redo the entire act[33]!",
   "tf43":"Wrong way, silly!",
   "tf44":"Good job! Now go find the [34]next act[34]",
-  "tf45":"Get the Gold medal in Act 1 to unlock Hard mode" 
+  "tf45":"Obtain [35]3 stars[35] in [35]Act 1[35] to unlock [35]Hard mode[35]"
 }

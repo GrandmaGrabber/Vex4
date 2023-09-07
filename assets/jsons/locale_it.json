@@ -1,8 +1,16 @@
 {
   "yes": "Sì",
   "no": "NO",
-  "retry":"RIPROVA",
+  "retry":"RITENTA",
   "youOk": "STAI BENE?",
+  "deaths": "Morti",
+  "totalDeaths": "Morti totali",
+  "perfect": "PERFETTO",
+  "gold": "ORO",
+  "silver": "ARGENTO",
+  "bronze": "BRONZO",
+  "cleared":"CANCELLATO",
+  
   "language": "Lingua",
   "ui_mm_start": "Gioca",
   "ui_trophie_title": "Trofei",
@@ -220,5 +228,5 @@
   "tf42":"Questo è tutto, il [33]test finale[33]. Se il filo ti batte fino alla fine, dovrai [33]rifare l'intero atto[33]!",
   "tf43":"Direzione sbagliata, sciocco!",
   "tf44":"Ottimo lavoro! Ora vai e trova il [34]prossimo atto[34]",
-  "tf45": "Ottieni la medaglia d'oro nell'Atto 1 per sbloccare la modalità difficile"
+  "tf45":"Ottieni [35]3 stelle[35] nell'[35]Atto 1[35] per sbloccare la [35]Modalità difficile[35]"
 }

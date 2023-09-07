@@ -9,7 +9,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
 
-    <title>Vex 6 Unblocked - ubg235 GameDistribution</title>
+    <title>Vex 5 Unblocked - ubg235 GameDistribution</title>
 
     <link rel="icon" type="image/png" href="assets/icon.png">
     <!-- For apple devices -->
@@ -19,23 +19,35 @@
 
 
 
-
-
-
-
-    <script src="patch/js/azerion-libs-m.js" defer></script>
-
 </head>
 
 <body style="overflow:hidden;">
     <div id="content"> </div>
+    <div id="loader">Loading...</div>
     <div id="orientation"></div>
 
     <script type="text/javascript">
-        var gameName = "vex6.min.js";
+        var _azerionIntegration = {
+            "rtgEnabled": true,
+            "lbEnabled": false,
+            "fbType": "dummy",
+            "alxType": "std",
+            "af": false,
+            "sa": false,
+            "la": false,
+            "bd": 0,
+            "playBtn": true,
+            "cp": false
+        }
 
 
-        var _azFeedback;
+        var libs = [];
+
+
+        var gameName = "vex5.min.js";
+
+
+        var enableAnalytics, azAdWrapper, _azFeedback;
 
 
 
@@ -44,7 +56,7 @@
         //This all here is for cache busting;
         function addScript(src, buster, callback) {
             var s = document.createElement('script');
-            s.setAttribute('src', src);
+            s.setAttribute('src', src + '?v=' + buster);
             if (typeof callback === 'function') {
                 s.onload = callback;
             }
@@ -55,7 +67,7 @@
 
         addScript('version.js', Date.now(), function() {
 
-            addScript(gameName, Date.now(), function() {});
+            addScript(gameName, version, function() {});
 
         });
     </script>
